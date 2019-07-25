@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+//#include <string>
 using namespace std;
 int main(){
 	string cars[4] = {"Volvo","Ford","BWM","Mazda"};
